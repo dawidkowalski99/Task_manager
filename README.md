@@ -49,3 +49,5 @@ task_manager_kivy.py – główny plik programu z interfejsem graficznym.
 
 database.py – moduł zarządzający połączeniem z bazą danych.
 
+task_manager_kivy.exe - plik programu możliwy do uruchomienia poprzez dwuklik.
+
